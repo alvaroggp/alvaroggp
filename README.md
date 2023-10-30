@@ -4,3 +4,4 @@
 - 👨 Pronomes : ele/dele
 - 📧 Me contate pelo email: alvaro.ggp010406@gmail.com
 
+<img src="/assets/3cf442eb0574a06127a2db3a6bd6e633.gif">
