@@ -2,4 +2,5 @@
 
 - 📘 No momento estou estudando C
 - 👨 Pronomes : ele/dele
+- 📧 Me contate pelo email: alvaro.ggp010406@gmail.com
 
