@@ -1,4 +1,4 @@
-## Olá, Meu nome é Alvaro Gabriel, sou fã da indústria de jogos eletrônicos desde cedo, então busco me expecializar nesta área, e estou ansioso para começar minha jornada como DEV
+# Olá, Meu nome é Alvaro Gabriel, sou fã da indústria de jogos eletrônicos desde cedo, então busco me expecializar nesta área, e estou ansioso para começar minha jornada como DEV
 
 - 📘 No momento estou estudando C
 - 👨 Pronomes : ele/dele
